@@ -3,3 +3,4 @@ with open("log.log","w") as f:
     f.write("test log entry")
 f.close()
 y = 3213 + 123
+x = 1 + 1
